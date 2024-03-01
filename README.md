@@ -22,6 +22,6 @@ Simply run these commands:
 
 # Authors
 
-@ARandomPig
+[@ARandomPig](https://github.com/ARandomPig)
 
-@mdev9
+[@mdev9](https://github.com/mdev9)
