@@ -1,0 +1,14 @@
+{
+    "name": "Simple Countdown",
+    "description": "Simple Countdown",
+    "original-author": "sb@42.fr",
+    "url": "https://github.com/mdev9/gnome-simple-countdown",
+    "uuid": "simple_countdown@mdev9",
+    "shell-version": [
+	"40",
+	"41",
+	"42"
+    ],
+    "gettext-domain": "lockscreen",
+    "version": 1
+}
