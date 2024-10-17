@@ -5,11 +5,13 @@ It can be configured with a custom date by simply clicking on it. It will open a
 
 <p align="center">
   </br>
-  <img height="28" width="166" src="https://cdn.discordapp.com/attachments/812282754216755232/1213103385583034398/Screenshot_from_2024-03-01_13-30-30.png?ex=65f44191&is=65e1cc91&hm=aee45a5bdb3481b5fd60d8d467eca24e720511ba51fddab06d939850504d940f&"/>
+  <img height="28" width="166" src="https://github.com/user-attachments/assets/510b7631-5de4-44c6-9bb3-04e110e5d58b"/>
   </br>
   </br>
-  <img src="https://cdn.discordapp.com/attachments/812282754216755232/1213103386854170694/Screenshot_from_2024-03-01_13-31-14.png?ex=65f44191&is=65e1cc91&hm=27e2f133b2002b6eb3a43f67209cca512584d005000dcf67d4c232fea30dea16&"/>
+  <img src="https://github.com/user-attachments/assets/dff7ad2c-4ab9-4c59-a864-e394ee9e6d0d"/>
 </p>
+
+
 
 # Installation
 
